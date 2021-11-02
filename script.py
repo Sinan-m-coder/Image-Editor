@@ -14,11 +14,11 @@ For more click help....</b>"""
 <code>🌀 Your Edited Image will be Uploaded </code>
 
 
-© @Mo_Tech_YT"""
+© @SinzzBotzz/3"""
     ABOUT_MSG = """⭕️<b>My Name : Image Editor</b>
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a>
 
-⭕️<b>Source Code :</b> 👉 <a href='https://github.com/MRK-YT/MT-Image-Editor'>Click Here</a>"""
+⭕️<b>Source Code :</b> 👉 <a href='https://t.me/SinzzBotzz/3'>Click Here</a>"""
