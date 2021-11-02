@@ -3,7 +3,7 @@
 
 import os
 
-LINK = "https://youtu.be/D8lANif4U9A"
+LINK = "https://t.me/SinzzBotzz/3"
 
 class Config(object):
     TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
