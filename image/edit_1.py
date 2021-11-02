@@ -240,7 +240,7 @@ async def box_blur(client, message):
         else:
             try:
                 await message.reply_to_message.reply_text(
-                    "Something went wrong!", quote=True
+                    "<a href="https://t.me/SinzzBotzz/3">Something error please restart</a> !", quote=True
                 )
             except Exception:
                 return
