@@ -1,7 +1,7 @@
 {
     "name": "Image-Editor-Bot",
     "description": "A Bot that can Edit Images in various modes",
-    "logo": "https://telegra.ph/file/71aaa621508cd696ab538.jpg",
+    "logo": "https://te.legra.ph/file/d237d71d043042ce848f5.jpg",
     "keywords": [
         "Image",
         "Editor",
@@ -9,8 +9,8 @@
         "TroJanzHEX"
     ],
     "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/MRK-YT/MT-Image-Editor",
-    "success_url": "https://github.com/MRK-YT/MT-Image-Editor",
+    "repository": "https://github.com/sinan-m-coder/Image-Editor",
+    "success_url": "https://github.com/sinan-m-coder/Image-Editor",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
